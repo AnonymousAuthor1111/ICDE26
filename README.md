@@ -1,4 +1,4 @@
-# Artifact for Verifying DeSCO
+# Artifact for Verifying DSCOS
 
 ## Experiment Setup
 1. Download and unzip the compressed file `DeSCO.tar.gz`
