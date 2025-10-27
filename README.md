@@ -1,8 +1,8 @@
 # Artifact for Verifying DSCOS
 
 ## Experiment Setup
-1. Download and unzip the compressed file `DeSCO.tar.gz`
-2. Entering the folder `DeSCO`
+1. Download and unzip the compressed file `DSCOS.tar.gz`
+2. Entering the folder `DSCOS`
 
 ### Install dependencies
 1. Install [SBT](https://www.scala-sbt.org/1.x/docs/Setup.html)
